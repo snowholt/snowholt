@@ -67,7 +67,7 @@ Here’s a gauge to show my commitment to contributing and improving!
 
 I’m always active on GitHub, pushing new commits, solving problems, and learning new things! Below is a glimpse of my latest activity.
 
-![Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=snowholt&theme=react)
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowholt&theme=react)
 
 ---
 
