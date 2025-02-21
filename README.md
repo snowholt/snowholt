@@ -26,7 +26,7 @@ Here are the tools and technologies I work with regularly:
 - **Languages:**
   - Python 
   - R 
-  - C/C++ (Arduino, Raspberry Pi) 
+  - C/C++ 
   - SQL 
   - JavaScript 
   - HTML & CSS 
@@ -52,6 +52,8 @@ Here are the tools and technologies I work with regularly:
   - Tableau
   - MS Azure
   - Google Cloud
+  - Arduino
+  - Raspberry Pi
 
 ---
 
