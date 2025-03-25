@@ -1,86 +1,67 @@
-## Hi there 👋
+# `[ Nariman.J ]`
 
-<!--
-**snowholt/snowholt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=snowholt&color=0e75b6&style=flat&label=Profile+Views)
 
-Here are some ideas to get you started:
+```
+AI Engineer | Data Scientist | Full-Stack Developer
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Welcome to My GitHub Profile!
+## `[ Core Skills ]`
 
-Hi there! 👋 I'm passionate about technology, coding, and entrepreneurship. Below you’ll find a summary of my skills, the languages I've worked with, and my commitment to learning and contributing to the world of development. 🚀
+```python
+skills = {
+    'AI & ML': ['Deep Learning', 'NLP', 'Statistical Modeling'],
+    'Data Science': ['Predictive Analytics', 'Data Mining', 'Feature Engineering'],
+    'Mathematics': ['Linear Algebra', 'Calculus', 'Probability & Statistics'],
+    'Software Dev': ['API Design', 'System Architecture', 'Cloud Infrastructure']
+}
+```
 
----
+## `[ Tech Stack ]`
 
-### 🔧 Languages and Technologies I Use
-Here are the tools and technologies I work with regularly:
-
-- **Languages:**
-  - Python 
-  - R 
-  - C/C++ 
-  - SQL 
-  - JavaScript 
-  - HTML & CSS 
-  - Bash/Shell 
+<div align="center">
   
-    
-
-- **Frameworks & Libraries:**
-  - Flask
-  - Django
-  - React
-  - Pandas, NumPy
-  - TensorFlow, PyTorch (AI/ML)
-  - FastAPI
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   
-- **Other Tools:**
-  - Git/GitHub
-  - Docker
-  - PostgreSQL
-  - Nginx
-  - MySQL
-  - PowerBI
-  - Tableau
-  - MS Azure
-  - Google Cloud
-  - Arduino
-  - Raspberry Pi
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  
+  <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  
+</div>
 
----
-
-### 📈 My GitHub Stats
-
-Here’s a gauge to show my commitment to contributing and improving!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snowholt&show_icons=true&theme=radical)
-
----
-
-### 📅 GitHub Activity
-
-I’m always active on GitHub, pushing new commits, solving problems, and learning new things! Below is a glimpse of my latest activity.
-
+## `[ Contribution Stats ]`
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowholt&theme=react)
 
----
 
-### 🌱 Currently Learning
-- Exploring more advanced AI/ML techniques.
-- Deepening my knowledge in web development frameworks (Flask, Django).
-- Working on some personal IoT projects with Raspberry Pi and Arduino. 
+## `[ Current Focus ]`
+```shell
+$ current_projects --list
+> Edge AI Deployment and AI Integration
+> Probabilistic Graphical Models
+> Mobile Applications
+```
 
----
-
-Feel free to check out my repositories, open issues, or just say hello! Happy coding! 😄
-
----
-*Made with ❤️ by [Nariman.J]*
+<div align="center">
+  
+```
+[ Connect ]
+```
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narimanjafari/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jafari.nariman@gmail.com)
+  
+</div>
