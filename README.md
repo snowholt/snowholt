@@ -1,4 +1,4 @@
-<span style="color:#FF1493">[ Nariman.J ]</span>
+# [ Nariman.J ]
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=snowholt&color=FF69B4&style=flat&label=Profile+Views)
