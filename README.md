@@ -1,6 +1,6 @@
 # `[ Nariman.J ]`
 
-![Profile Views](https://komarev.com/ghpvc/?username=snowholt&color=0e75b6&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=snowholt&color=FF69B4&style=flat&label=Profile+Views)
 
 ```
 AI Engineer | Data Scientist | Full-Stack Developer
@@ -44,7 +44,7 @@ skills = {
 </div>
 
 ## `[ Contribution Stats ]`
-![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowholt&theme=react)
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowholt&theme=rose_pine)
 
 
 ## `[ Current Focus ]`
@@ -63,5 +63,6 @@ $ current_projects --list
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narimanjafari/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jafari.nariman@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snowholt)
   
 </div>
