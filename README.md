@@ -45,8 +45,19 @@ skills = {
 </div>
 
 ## `[ Contribution Stats ]`
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=snowholt&theme=rose-pine&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Profile Summary Card (may be flaky depending on upstream) -->
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowholt&theme=rose_pine)
 
+<!-- Snake Contribution Animation (generated via GitHub Actions) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/snowholt/snowholt/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ## `[ Current Focus ]`
 ```shell
