@@ -69,15 +69,23 @@ skills = {
 <!-- Profile Summary Card (may be flaky depending on upstream) -->
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowholt&theme=rose_pine)
 
+
+
+<!-- GitHub Stats Card (Shows PRs, Issues, and Grade) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snowholt&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true" alt="snowholt's GitHub Stats" />
+</p>
+
+
 <!-- Snake Contribution Animation (generated via GitHub Actions) -->
 <!-- Snake Contribution Animation -->
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snowholt/snowholt/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snowholt/snowholt/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/snowholt/snowholt/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
+</p> -->
 
 ## `[ Current Focus ]`
 ```shell
