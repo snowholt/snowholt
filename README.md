@@ -72,8 +72,9 @@ skills = {
 
 
 <!-- GitHub Stats Card (Shows PRs, Issues, and Grade) -->
+<!-- My Secure GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snowholt&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true" alt="snowholt's GitHub Stats" />
+  <img src="github-stats.svg" alt="snowholt's GitHub Stats" />
 </p>
 
 
