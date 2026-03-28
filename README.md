@@ -73,9 +73,9 @@ skills = {
 
 <!-- GitHub Stats Card (Shows PRs, Issues, and Grade) -->
 <!-- My Secure GitHub Stats Card -->
-<p align="center">
+<!-- <p align="center">
   <img src="github-stats.svg" alt="snowholt's GitHub Stats" />
-</p>
+</p> -->
 
 
 <!-- Snake Contribution Animation (generated via GitHub Actions) -->
