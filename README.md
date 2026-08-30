@@ -22,9 +22,9 @@ interface, and the infrastructure underneath.
 
 | Platform | What it is | Role |
 |---|---|---|
-| **GuardX-IQ** | Multi-tenant authorization platform — a second, out-of-band confirmation before a transaction goes through | Lead engineer · service, web console, mobile authenticator |
+| **[GuardX-IQ](https://transaguard.com)** | Multi-tenant authorization platform — a second, out-of-band confirmation before a transaction goes through | Lead engineer · service, web console, mobile authenticator |
 | **[Bahaam](https://bahaam.com)** | Bilingual AI companion for trauma-informed support, paired with a licensed-provider booking marketplace | AI integration & full-stack |
-| **TCF Exam Platform** | French TCF/TEF preparation for Quebec immigration, with AI-assisted evaluation of written French | Backend, AI evaluation, commerce |
+| **[Anna Education](https://e2ba.com)** | French TCF/TEF preparation for Quebec immigration, with AI-assisted evaluation of written French | Backend, AI evaluation, commerce |
 | **[Open-House AI](https://dakeh.ca)** | Visitors ask a listing questions by voice; answers come only from human-reviewed material | Full-stack |
 | **BeautyAI** | Real-time multilingual voice assistant — speech in, locally GPU-hosted model, speech out | Freelance, sole developer |
 | **Nina — Velvet Muse** | Multimodal chat for a fully offline local model: text, images, voice, streamed live | Personal project |
@@ -74,31 +74,31 @@ stack = {
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Python-182742?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-182742?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-182742?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-182742?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-182742?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Bash-182742?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Python-182742?style=flat-square&logo=python&logoColor=FFD43B" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-182742?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-182742?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-182742?style=flat-square&logo=cplusplus&logoColor=649AD2" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-182742?style=flat-square&logo=postgresql&logoColor=6E93E8" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Bash-182742?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
   <br/>
-  <img src="https://img.shields.io/badge/FastAPI-182742?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Next.js-182742?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-182742?style=flat-square&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/React%20Native-182742?style=flat-square&logo=react&logoColor=white" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Tailwind-182742?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/FastAPI-182742?style=flat-square&logo=fastapi&logoColor=2BBBAD" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Next.js-182742?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-182742?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React%20Native-182742?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Tailwind-182742?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind"/>
   <br/>
-  <img src="https://img.shields.io/badge/PyTorch-182742?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenAI-182742?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Ollama-182742?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/OpenCV-182742?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/PyTorch-182742?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-182742?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Ollama-182742?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/OpenCV-182742?style=flat-square&logo=opencv&logoColor=9B86F5" alt="OpenCV"/>
   <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-182742?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-182742?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-182742?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-182742?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Traefik-182742?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik"/>
-  <img src="https://img.shields.io/badge/Prometheus-182742?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Stripe-182742?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-182742?style=flat-square&logo=postgresql&logoColor=6E93E8" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-182742?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-182742?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-182742?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Traefik-182742?style=flat-square&logo=traefikproxy&logoColor=24A1C1" alt="Traefik"/>
+  <img src="https://img.shields.io/badge/Prometheus-182742?style=flat-square&logo=prometheus&logoColor=E6522C" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Stripe-182742?style=flat-square&logo=stripe&logoColor=A79BFF" alt="Stripe"/>
 
 </div>
 
