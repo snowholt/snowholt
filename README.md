@@ -26,7 +26,7 @@ interface, and the infrastructure underneath.
 | **[Bahaam](https://bahaam.com)** | Bilingual AI companion for trauma-informed support, paired with a licensed-provider booking marketplace | AI integration & full-stack |
 | **[Anna Education](https://e2ba.com)** | French TCF/TEF preparation for Quebec immigration, with AI-assisted evaluation of written French | Backend, AI evaluation, commerce |
 | **[Open-House AI](https://dakeh.ca)** | Visitors ask a listing questions by voice; answers come only from human-reviewed material | Full-stack |
-| **BeautyAI** | Real-time multilingual voice assistant — speech in, locally GPU-hosted model, speech out | Freelance, sole developer |
+| **[Genius AI](https://gmai.sa)** | Real-time multilingual voice assistant — speech in, locally GPU-hosted model, speech out | Freelance, sole developer |
 | **Nina — Velvet Muse** | Multimodal chat for a fully offline local model: text, images, voice, streamed live | Personal project |
 
 ---
