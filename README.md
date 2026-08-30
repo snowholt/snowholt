@@ -1,109 +1,141 @@
-# [ Nariman.J ]
+# Nariman Jafari
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=snowholt&color=FF69B4&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=snowholt&color=D6236B&style=flat-square&label=views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D6236B?style=flat-square&logo=google-chrome&logoColor=white)](https://snowholt.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-182742?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narimanjafari/)
+[![Email](https://img.shields.io/badge/Email-182742?style=flat-square&logo=gmail&logoColor=white)](mailto:jafari.nariman@gmail.com)
 
 ```
-AI Engineer | Data Scientist | Full-Stack Developer
+Full-Stack & AI Engineer  ·  Montréal, QC  ·  EN / FR / FA
 ```
 
-## `[ Core Skills ]`
+I build platforms that handle real consequences — AI therapy and provider booking,
+transaction authorization, French exam certification, real-time voice. Backend,
+interface, and the infrastructure underneath.
+
+---
+
+## `Section A · Production work`
+
+> Client and employer platforms, described by what they do and what I owned.
+> Technology is listed in Section C.
+
+| Platform | What it is | Role |
+|---|---|---|
+| **GuardX-IQ** | Multi-tenant authorization platform — a second, out-of-band confirmation before a transaction goes through | Lead engineer · service, web console, mobile authenticator |
+| **[Bahaam](https://bahaam.com)** | Bilingual AI companion for trauma-informed support, paired with a licensed-provider booking marketplace | AI integration & full-stack |
+| **TCF Exam Platform** | French TCF/TEF preparation for Quebec immigration, with AI-assisted evaluation of written French | Backend, AI evaluation, commerce |
+| **[Open-House AI](https://dakeh.ca)** | Visitors ask a listing questions by voice; answers come only from human-reviewed material | Full-stack |
+| **BeautyAI** | Real-time multilingual voice assistant — speech in, locally GPU-hosted model, speech out | Freelance, sole developer |
+| **Nina — Velvet Muse** | Multimodal chat for a fully offline local model: text, images, voice, streamed live | Personal project |
+
+---
+
+## `Section B · Open source`
+
+| Repository | What it does |
+|---|---|
+| [**sdrpp-airband**](https://github.com/snowholt/sdrpp-airband) | Adaptive squelch and AM noise reduction for aviation airband, built on SDR++ |
+| [**rtlangle**](https://github.com/snowholt/rtlangle) | Measures RTL-SDR airband reception against antenna orientation, with uncertainty-aware rankings |
+| [**chefbelle**](https://github.com/snowholt/chefbelle) | Stateful cooking agent — semantic recipe search, nutrition lookup, voice guidance |
+| [**Study-Planner**](https://github.com/snowholt/Study-Planner) | Multi-agent system building personalized five-day study plans |
+| [**smart-vision-gemma**](https://github.com/snowholt/smart-vision-gemma) | Real-time detection and face analysis narrated by a language model |
+| [**Inteligent-PacMan**](https://github.com/snowholt/Inteligent-PacMan) | Vision handles reflexes at 30 FPS, a language model handles strategy |
+| [**ParticlePhysicsSimulation**](https://github.com/snowholt/ParticlePhysicsSimulation) | Thousands of particles in real time using AVX2 and spatial hashing |
+| [**EPS32-Weather**](https://github.com/snowholt/EPS32-Weather) | Environmental data served from a web server on the microcontroller itself |
+| [**vscodeinsiderDownloader**](https://github.com/snowholt/vscodeinsiderDownloader) | Linux updater for VS Code Insiders with release notes and confirmation-first installs |
+| [**softwareTesting**](https://github.com/snowholt/softwareTesting) | Unit, integration and system testing worked through end to end |
+| [**pythonEnvAnalyzer**](https://github.com/snowholt/pythonEnvAnalyzer) | Reports dependency inconsistencies across Python environments |
+| [**pinkTheme**](https://github.com/snowholt/pinkTheme) | A colour theme for VS Code |
+| [**tankSimulation**](https://github.com/snowholt/tankSimulation) | Tank simulation written in TypeScript |
+| [**DataAnalytics-Projects**](https://github.com/snowholt/DataAnalytics-Projects-Python) | Analysis and visualization in [Python](https://github.com/snowholt/DataAnalytics-Projects-Python), [R](https://github.com/snowholt/DataAnalytics-Projects-R) and [SQL](https://github.com/snowholt/DataAnalytics-Projects-SQL) |
+
+---
+
+## `Section C · Instruments`
 
 ```python
-skills = {
-    'AI & ML': ['Deep Learning', 'NLP', 'Statistical Modeling'],
-    'Data Science': ['Predictive Analytics', 'Data Mining', 'Feature Engineering'],
-    'Mathematics': ['Linear Algebra', 'Calculus', 'Probability & Statistics'],
-    'Software Dev': ['API Design', 'System Architecture', 'Cloud Infrastructure']
+stack = {
+    'languages': ['Python', 'TypeScript', 'JavaScript', 'SQL', 'C++', 'C', 'R', 'Bash'],
+    'ai':        ['OpenAI', 'Gemini / ADK', 'LangGraph', 'RAG', 'Ollama', 'vLLM',
+                  'PyTorch', 'Whisper', 'Edge TTS / XTTS', 'YOLOv8', 'OpenCV'],
+    'backend':   ['FastAPI', 'Flask', 'Django', 'SQLAlchemy', 'Alembic',
+                  'WebSocket', 'WebRTC'],
+    'frontend':  ['Next.js', 'React', 'React Native', 'Tailwind', 'shadcn/ui',
+                  'Zustand', 'TanStack Query', 'i18next', 'PySide6'],
+    'data':      ['PostgreSQL', 'Redis', 'pgvector', 'ChromaDB', 'S3 / MinIO',
+                  'Pandas', 'NumPy'],
+    'infra':     ['Docker', 'Linux', 'Nginx', 'Traefik', 'systemd',
+                  'Prometheus', 'Grafana', 'CI/CD'],
+    'security':  ['OWASP Top 10', 'HIPAA safeguards', 'OIDC / OAuth', 'RBAC',
+                  'MFA', 'AES-256-GCM', 'audit logging', 'secrets management'],
 }
 ```
-## `[ Tech Stack ]`
 
 <div align="center">
-  
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  
-  <!-- Frontend / Mobile -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React JS"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Python-182742?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-182742?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-182742?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-182742?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-182742?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Bash-182742?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+  <br/>
+  <img src="https://img.shields.io/badge/FastAPI-182742?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Next.js-182742?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-182742?style=flat-square&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/React%20Native-182742?style=flat-square&logo=react&logoColor=white" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Tailwind-182742?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PyTorch-182742?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenAI-182742?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Ollama-182742?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/OpenCV-182742?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-182742?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-182742?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-182742?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-182742?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Traefik-182742?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik"/>
+  <img src="https://img.shields.io/badge/Prometheus-182742?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Stripe-182742?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
 
-  <!-- Backend / Frameworks -->
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-
-  <!-- LLM / Vector DB -->
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge" alt="ChromaDB"/>
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  
 </div>
 
+---
 
-## `[ Contribution Stats ]`
+## `Section D · Activity`
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=snowholt&theme=rose-pine&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<!-- Profile Summary Card (may be flaky depending on upstream) -->
-![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowholt&theme=rose_pine)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowholt&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowholt&theme=github_light" alt="GitHub profile summary"/>
+</picture>
 
+<img height="165" src="https://streak-stats.demolab.com?user=snowholt&hide_border=true&background=00000000&stroke=E7D6D6&ring=D6236B&fire=D6236B&currStreakNum=D6236B&sideNums=5C6B87&currStreakLabel=D6236B&sideLabels=5C6B87&dates=8D99AF" alt="Contribution streak"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snowholt&theme=github_dark">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snowholt&theme=github_light" alt="Repositories per language"/>
+</picture>
 
-<!-- GitHub Stats Card (Shows PRs, Issues, and Grade) -->
-<!-- My Secure GitHub Stats Card -->
-<!-- <p align="center">
-  <img src="github-stats.svg" alt="snowholt's GitHub Stats" />
-</p> -->
+</div>
 
+---
 
-<!-- Snake Contribution Animation (generated via GitHub Actions) -->
-<!-- Snake Contribution Animation -->
-<!-- <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snowholt/snowholt/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snowholt/snowholt/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/snowholt/snowholt/output/github-contribution-grid-snake.svg">
-  </picture>
-</p> -->
+## `Section E · Currently`
 
-## `[ Current Focus ]`
 ```shell
-$ current_projects --list
-> Edge AI Deployment and AI Integration
-> Probabilistic Graphical Models
-> Mobile Applications
+$ current_focus --list
+> Production AI platforms — voice, retrieval, agent workflows
+> Application security hardening and compliance
+> Signal processing and software-defined radio
+> Quantitative research tooling
 ```
 
 <div align="center">
-  
-```
-[ Connect ]
-```
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narimanjafari/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jafari.nariman@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://snowholt.github.io/)
-  
+
+**[snowholt.github.io](https://snowholt.github.io/)** · **[jafari.nariman@gmail.com](mailto:jafari.nariman@gmail.com)**
+
 </div>
