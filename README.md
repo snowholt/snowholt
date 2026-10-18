@@ -136,6 +136,6 @@ $ current_focus --list
 
 <div align="center">
 
-**[snowholt.github.io](https://snowholt.github.io/)** · **[jafari.nariman@gmail.com](mailto:jafari.nariman@gmail.com)**
+**[snowholt.github.io](https://snowholt.github.io/)** · 
 
 </div>
