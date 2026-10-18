@@ -136,6 +136,6 @@ $ current_focus --list
 
 <div align="center">
 
-**[snowholt.github.io](https://snowholt.github.io/)** · 
+**[snowholt.github.io](https://snowholt.github.io/)** 
 
 </div>
