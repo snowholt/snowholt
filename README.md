@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=snowholt&color=D6236B&style=flat-square&label=views)
 [![Portfolio](https://img.shields.io/badge/Portfolio-D6236B?style=flat-square&logo=google-chrome&logoColor=white)](https://snowholt.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-182742?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narimanjafari/)
-[![Email](https://img.shields.io/badge/Email-182742?style=flat-square&logo=gmail&logoColor=white)](mailto:jafari.nariman@gmail.com)
+[![Email](https://img.shields.io/badge/Email-182742?style=flat-square&logo=gmail&logoColor=white)](mailto:nariman@lumidev.ca)
 
 ```
 Full-Stack & AI Engineer  ·  Montréal, QC  ·  EN / FR / FA
